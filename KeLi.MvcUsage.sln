@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.MvcUsage.App", "KeLi.MvcUsage.App\KeLi.MvcUsage.App.csproj", "{EC1C8D79-CC72-4313-A747-0125FD442AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1C8D79-CC72-4313-A747-0125FD442AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1C8D79-CC72-4313-A747-0125FD442AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1C8D79-CC72-4313-A747-0125FD442AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1C8D79-CC72-4313-A747-0125FD442AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21397431-C1DA-4855-B93E-6F46A7A648E8}
+	EndGlobalSection
+EndGlobal
