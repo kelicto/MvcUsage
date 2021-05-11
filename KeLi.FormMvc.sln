@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2050
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.MvcUsage.App", "KeLi.MvcUsage.App\KeLi.MvcUsage.App.csproj", "{EC1C8D79-CC72-4313-A747-0125FD442AAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.FormMvc.App", "KeLi.FormMvc.App\KeLi.FormMvc.App.csproj", "{EC1C8D79-CC72-4313-A747-0125FD442AAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

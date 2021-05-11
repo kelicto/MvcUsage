@@ -1,4 +1,4 @@
-﻿namespace KeLi.MvcUsage.App.Views
+﻿namespace KeLi.FormMvc.App.Views
 {
     partial class PersonForm
     {
@@ -38,61 +38,61 @@
             // 
             // btnChangeBack
             // 
-            this.btnChangeBack.Location = new System.Drawing.Point(72, 82);
+            this.btnChangeBack.Location = new System.Drawing.Point(64, 144);
             this.btnChangeBack.Name = "btnChangeBack";
-            this.btnChangeBack.Size = new System.Drawing.Size(124, 25);
+            this.btnChangeBack.Size = new System.Drawing.Size(172, 23);
             this.btnChangeBack.TabIndex = 0;
-            this.btnChangeBack.Text = "Applys to backend.";
+            this.btnChangeBack.Text = "To Backend";
             this.btnChangeBack.UseVisualStyleBackColor = true;
             this.btnChangeBack.Click += new System.EventHandler(this.BtnChangeBack_Click);
             // 
             // btnChangeFore
             // 
-            this.btnChangeFore.Location = new System.Drawing.Point(72, 113);
+            this.btnChangeFore.Location = new System.Drawing.Point(64, 104);
             this.btnChangeFore.Name = "btnChangeFore";
-            this.btnChangeFore.Size = new System.Drawing.Size(124, 25);
+            this.btnChangeFore.Size = new System.Drawing.Size(172, 23);
             this.btnChangeFore.TabIndex = 1;
-            this.btnChangeFore.Text = "Applys to front desk.";
+            this.btnChangeFore.Text = "To Front";
             this.btnChangeFore.UseVisualStyleBackColor = true;
             this.btnChangeFore.Click += new System.EventHandler(this.BtnChangeFore_Click);
             // 
             // tbId
             // 
-            this.tbId.Location = new System.Drawing.Point(62, 12);
+            this.tbId.Location = new System.Drawing.Point(62, 11);
             this.tbId.Name = "tbId";
-            this.tbId.Size = new System.Drawing.Size(134, 20);
+            this.tbId.Size = new System.Drawing.Size(178, 21);
             this.tbId.TabIndex = 2;
             // 
             // tbName
             // 
-            this.tbName.Location = new System.Drawing.Point(62, 44);
+            this.tbName.Location = new System.Drawing.Point(62, 41);
             this.tbName.Name = "tbName";
-            this.tbName.Size = new System.Drawing.Size(134, 20);
+            this.tbName.Size = new System.Drawing.Size(178, 21);
             this.tbName.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(15, 16);
+            this.label1.Location = new System.Drawing.Point(15, 15);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(24, 13);
+            this.label1.Size = new System.Drawing.Size(29, 12);
             this.label1.TabIndex = 4;
             this.label1.Text = "ID: ";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(15, 49);
+            this.label2.Location = new System.Drawing.Point(15, 45);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 13);
+            this.label2.Size = new System.Drawing.Size(41, 12);
             this.label2.TabIndex = 4;
             this.label2.Text = "Name: ";
             // 
             // PersonForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(215, 155);
+            this.ClientSize = new System.Drawing.Size(257, 187);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbName);
